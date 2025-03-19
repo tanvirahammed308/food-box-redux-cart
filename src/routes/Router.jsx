@@ -4,7 +4,7 @@ import Home from "../pages/Home"
 import About from "../pages/About"
 import Success from "../pages/Success"
 
-const router = () => {
+const Router = () => {
   return (
     <div>
         <Routes>
@@ -20,4 +20,4 @@ const router = () => {
   )
 }
 
-export default router
+export default Router
